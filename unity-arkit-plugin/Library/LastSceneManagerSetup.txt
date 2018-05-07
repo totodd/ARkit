@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/UnityARKitPlugin/Examples/ARKit1.5/UnityARImageAnchor/UnityARImageAnchor.unity
+  isLoaded: 1
+  isActive: 1

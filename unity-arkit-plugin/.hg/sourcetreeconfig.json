@@ -1,0 +1,30 @@
+{
+  "$id": "7",
+  "AutoRefresh": true,
+  "AutoRefreshRemotes": true,
+  "CommitTextLinks": null,
+  "DraftCommitMsg": "",
+  "IncomingSavedCount": 0,
+  "LastCheckedRemotes": "2018-05-03T17:45:39.4843472+10:00",
+  "LastUsedView": 1,
+  "LogBranchFilterIndex": 0,
+  "OutgoingSavedCount": 0,
+  "RemoteProjectLinks": [
+    {
+      "$id": "8",
+      "BaseUrl": "https://bitbucket.org/",
+      "Identifier": "Unity-Technologies/unity-arkit-plugin",
+      "RemoteName": "default",
+      "Type": 1,
+      "Username": null,
+      "CloneUrl": "https://bitbucket.org/Unity-Technologies/unity-arkit-plugin",
+      "DisplayName": "default: https://bitbucket.org/"
+    }
+  ],
+  "SidebarExpandedItems": [
+    "File Status",
+    "Branches"
+  ],
+  "SidebarWidth": 210.0,
+  "SubtreeLinks": []
+}
